@@ -1,0 +1,56 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\DHA123\Desktop\fpga\finish1\lab_ex5_i2s\sim
+T_opt
+Vmk_?3XP[m2C0BdH?ihm=f1
+Z1 04 16 4 work tb_spectrum_core fast 0
+=1-08bfb8c211ab-6ae62953-3b7-5bf4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+T_opt1
+VTf_9lU@6=7EL?;:>=U1Ui1
+R1
+=1-08bfb8c211ab-6ae620af-1a5-b8c8
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt1
+R2
+Z3 dC:\Users\DHA123\Desktop\fpga\finish1\lab_ex5_i2s\sim
+vspectrum_core
+IRc0j0EiTYOQ7Z@1d;V4H`3
+VWGH`WEzkBWlFQkndljlbB0
+R3
+w1793468705
+8spectrum_core_sim.v
+Fspectrum_core_sim.v
+L0 24
+Z4 OL;L;10.1c;51
+r1
+31
+Z5 !s108 1793468755.130000
+Z6 !s107 tb_spectrum_core.v|spectrum_core_sim.v|
+Z7 !s90 -work|work|spectrum_core_sim.v|tb_spectrum_core.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 l:z8;_QhD54UdQ6_0;QIV1
+!i10b 1
+!s85 0
+vtb_spectrum_core
+IV:i09T9UX2i;ebSZ[9Tc61
+V_W5`z>=m[dnH<7YcPo3jN1
+R3
+w1793468750
+8tb_spectrum_core.v
+Ftb_spectrum_core.v
+L0 14
+R4
+r1
+31
+R5
+R6
+R7
+R8
+!i10b 1
+!s100 :gRj`UZ?d<MW5Q3Af6R_Z3
+!s85 0

@@ -1,0 +1,35 @@
+# do sim_vcd.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+# -- Compiling module spectrum_core
+# -- Compiling module tb_spectrum_core
+# 
+# Top level modules:
+# 	tb_spectrum_core
+# vsim -voptargs=+acc -c work.tb_spectrum_core 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Note: (vopt-143) Recognized 1 FSM in module "spectrum_core(fast)".
+# 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading work.tb_spectrum_core(fast)
+# Loading work.spectrum_core(fast)
+# ==============================
+#  频点电平表 (bin : level)
+#    bin 5 = 34
+# ------------------------------
+#  峰值频点 bin 5, 电平 34
+#  === PASS ===  能量集中在 bin 5(1875Hz), 与理论一致
+# ==============================
+# ** Note: $finish    : tb_spectrum_core.v(64)
+#    Time: 88160 ns  Iteration: 1  Instance: /tb_spectrum_core
