@@ -1,0 +1,31 @@
+============================================================
+   Tang Dynasty, V6.2.178840
+   Copyright (c) 2012-2025 Anlogic Inc.
+   Executable = G:/TD/bin/td_commands_prompt.exe
+   Built at =   14:07:58 Sep  4 2025
+   Run by =     DHA123
+   Run Date =   Mon Oct 26 23:35:33 2026
+
+   Run on =     LAPTOP-I54T0KPN
+============================================================
+Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved.
+This product includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit (http://www.openssl.org/)
+Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+All rights reserved.
+This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)
+HDL-8007 ERROR: procedural assignment to a non-register 'load_start_pulse' is not permitted in ../../../user_source/hdl_source/SD/sd_card_bmp.v(185)
+HDL-8007 ERROR: procedural assignment to a non-register 'load_start_pulse' is not permitted in ../../../user_source/hdl_source/SD/sd_card_bmp.v(226)
+HDL-8007 ERROR: procedural assignment to a non-register 'load_start_pulse' is not permitted in ../../../user_source/hdl_source/SD/sd_card_bmp.v(410)
+HDL-8007 ERROR: procedural assignment to a non-register 'load_start_pulse' is not permitted in ../../../user_source/hdl_source/SD/sd_card_bmp.v(425)
+HDL-8007 ERROR: procedural assignment to a non-register 'load_start_pulse' is not permitted in ../../../user_source/hdl_source/SD/sd_card_bmp.v(440)
+HDL-8007 ERROR: ignore module module due to previous errors in ../../../user_source/hdl_source/SD/sd_card_bmp.v(2)
+HDL-8007 ERROR: ignore module module due to previous errors in ../../../user_source/hdl_source/SD/sd_card_bmp.v(489)
+HDL-5373 WARNING: identifier 'state' is used before its declaration in ../../../user_source/hdl_source/SD/sd_card_sec_read_write.v(50)
+HDL-5373 WARNING: identifier 'rd_retry' is used before its declaration in ../../../user_source/hdl_source/SD/sd_card_sec_read_write.v(51)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../../../user_source/hdl_source/include/sdr_init_ref.enc.v(47)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(283)
+HDL-5373 WARNING: identifier 'rgray' is used before its declaration in ../../../user_source/hdl_source/audio_fifo_dc.v(60)
+HDL-5373 WARNING: identifier 'bin' is used before its declaration in ../../../user_source/hdl_source/spectrum_core.v(128)
+HDL-5373 WARNING: identifier 'bin' is used before its declaration in ../../../user_source/hdl_source/spectrum_core.v(156)
+PRJ-8644 ERROR: Failed to analyze source file(s).
